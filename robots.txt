@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dopplesoldner.github.io/sitemap.xml 
